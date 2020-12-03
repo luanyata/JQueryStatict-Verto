@@ -1,0 +1,1 @@
+# JQueryStrict-Verto
